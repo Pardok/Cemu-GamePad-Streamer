@@ -1,5 +1,11 @@
 # **Cemu - Wii U emulator**
 
+## This fork
+
+This fork is a proof of concept of a new API for Cemu to send GamePad video to other devices. 
+
+## Original description
+
 [![Build Process](https://github.com/cemu-project/Cemu/actions/workflows/build.yml/badge.svg)](https://github.com/cemu-project/Cemu/actions/workflows/build.yml)
 [![Discord](https://img.shields.io/discord/286429969104764928?label=Cemu&logo=discord&logoColor=FFFFFF)](https://discord.gg/5psYsup)
 
